@@ -11,4 +11,4 @@ N/A
 Images provided in `/assets/img/*` are not of my own. Only present for the demo.
 
 # Previews
-![preview image](https://via.placeholder.com/350x240)
+![preview image](https://github.com/amattu2/ice-cream-template/blob/master/assets/img/screenshot.png?raw=true)
